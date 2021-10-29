@@ -1,0 +1,13 @@
+$primary: #7400d9;
+
+@import "~bootstrap/scss/bootstrap";
+
+.movie-card {
+  width: 16rem;
+}
+.movie-title {
+  min-height: 3rem !important;
+}
+.movie-details-card-header{
+  background-color: $primary;
+}
